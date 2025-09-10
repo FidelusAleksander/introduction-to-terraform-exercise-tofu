@@ -4,13 +4,11 @@
 
 Hey FidelusAleksander!
 
-Mona here. Ready to get started? Let's configure your exercise to match your preferences! 💚
+Mona here. I'm done preparing your exercise. Hope you enjoy! 💚
 
-To get started, please create an issue from our setup template where you can configure your exercise, or keep the defaults!
+Remember, it's self-paced so feel free to take a break! ☕️
 
-[![Configure Exercise](https://img.shields.io/badge/Configure%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](../../issues/new?template=exercise-setup.yml)
-
-> Once you create the issue from the template, the link to the exercise will be added in your issue!
+[![](https://img.shields.io/badge/Go%20to%20Exercise-%E2%86%92-1f883d?style=for-the-badge&logo=github&labelColor=197935)](https://github.com/FidelusAleksander/introduction-to-terraform-exercise-tofu/issues/2)
 
 ---
 
